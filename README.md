@@ -26,7 +26,7 @@ A modern, fast-paced, cross-platform digital take on the classic property-tradin
 Since the game removes the need for voice or text chat, all interactions are handled through our streamlined UI:
 1.  **Select a Player:** Tap on an opponent's avatar.
 2.  **Propose a Trade:** Use the visual trade builder to drag and drop properties or cash you want to offer and what you want in return.
-3.  **Accept/Counter/Reject:** The receiving player gets a pop-up with visual indicators and can tap to accept, decline, or instantly modify the offer using slider controls.
+3.  **Accept/Counter/Reject:** The receiving player gets live visual indicators and can tap to accept, decline, or instantly modify the offer using slider controls.
 
 ---
 
